@@ -15,16 +15,16 @@
             "children": [
               {
                 "meta": {
-                  "name": "Mark"
+                  "name": "Marky"
                 },
                 "position": {
-                  "basis": "10px",
+                  "basis": "12px",
                   "shrink": 0
                 },
                 "props": {
                   "style": {
                     "backgroundColor": "#e6e6e3",
-                    "height": "10px",
+                    "height": "20px",
                     "margin": "0 8px 0 0"
                   }
                 },
@@ -46,7 +46,7 @@
                     "letterSpacing": "3px",
                     "textTransform": "uppercase"
                   },
-                  "text": "PLANT CONTROL"
+                  "text": "This PLANT CONTROL"
                 },
                 "type": "ia.display.label"
               }
